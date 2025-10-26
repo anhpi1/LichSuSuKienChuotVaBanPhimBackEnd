@@ -52,6 +52,11 @@ HaiAnh_MouseModel.cpp
 
 💡 Nếu có quy ước mới trong nhóm → cập nhật tại đây để mọi thành viên tuân theo.
 
+class (đối tượng)
+ - hàm khởi tạo
+ - hàm hàm locgic
+ - hàm xóa phần tử
+ - hàm xem phần tử
 ---
 
 ✍️ Hãy góp ý để Readme này hoàn thiện hơn!
