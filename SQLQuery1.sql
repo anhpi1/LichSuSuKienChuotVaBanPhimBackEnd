@@ -7,7 +7,7 @@ GO
 USE Test;
 GO
  
-IF NOT EXISTS (SELECT * FROM sys.objects WHERE name = 'Vector2')
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE name = 'Vector2    ')
 BEGIN
     CREATE TABLE Vector2 (
         a INT,
